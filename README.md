@@ -1,3 +1,3 @@
-# apres_but.github.io
+# Projet Personnel et Professionnel
 
-https://lobombadil.github.io/apres_but.github.io/
+[Le site](https://lobombadil.github.io/apres_but.github.io/)
