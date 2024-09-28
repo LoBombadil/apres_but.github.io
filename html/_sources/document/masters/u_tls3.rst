@@ -1,0 +1,40 @@
+Universite Toulouse 3 Paul Sabatier 
+===================================
+
+
+Parcours
+----------
+
+
+
+
+
+.. card-carousel:: 2
+
+  .. card::  Sécurité des systèmes d'information et des réseaux (SSIR)
+        :link: parcours/toulouse/ssir_tls.html
+        :margin: 3
+
+        ^^^
+
+        Durée de la formation : 2 ans
+        Niveau de sortie : Bac + 5 (Niveau 7)
+        Formation d'expert en cybersécurité qui évalue la vulnérabilité des systèmes
+        et met en place des solutions de protection des applications et les données.
+        Il intervient par des procédures de niveaux technique, méthodologique et organisationnel.
+        +++
+        Explore this book :fas:`arrow-right`
+
+  .. card:: Services de télécoms, réseaux et infrastructures (STRI) 
+        :link: parcours/toulouse/stri_tls.html
+        :margin: 3
+
+        ^^^
+      
+        Durée de la formation : 2 ans
+        Niveau de sortie : Bac + 5 (Niveau 7) 
+
+        +++
+        Explore this book :fas:`arrow-right`
+
+
