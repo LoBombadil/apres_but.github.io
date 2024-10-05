@@ -1,8 +1,5 @@
-Les Masters
-==============
-
 Objectif du diplôme
---------------------
+====================
 
 Les mentions de masters 
 ^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -28,7 +25,7 @@ Les domaines étudiers
 
 
 Liste des masters en France
----------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. card-carousel:: 3
 
@@ -42,7 +39,7 @@ Liste des masters en France
          :height: 100
 
       +++
-      Explore this book :fas:`arrow-right`
+      Découvrir ce master :fas:`arrow-right`
 
    .. card::  Université Aix-Marseille
       :link: masters/u_mars.html
@@ -56,7 +53,7 @@ Liste des masters en France
       Première et deuxième années de Master
 
       +++
-      Explore this book :fas:`arrow-right`
+      Découvrir ce master :fas:`arrow-right`
 
    .. card:: Université Lille 
       :link: masters/u_lille.html
@@ -70,7 +67,35 @@ Liste des masters en France
       Description for the third card.
 
       +++
-      Explore this card :fas:`arrow-right`
+      Découvrir ce master :fas:`arrow-right`
+      
+   .. card:: Université Savoie Mont Blanc 
+      :link: masters/u_savoie_mb.html
+      :margin: 3
+
+      ^^^
+
+      .. image:: https://formations.univ-smb.fr/_object/ametys%253Aplugins/odf/ametys%253Acontents/orgunit-centre-interdisciplinaire-scientifique-de-la-montagne-cism/_attribute/logo/image/logoScem480x290_crop290x480.jpg?objectId=orgunitContent://c9a827f3-a195-4fcd-8675-b32ec4cce633
+         :height: 100
+
+      Description for the third card.
+
+      +++
+      Découvrir ce master :fas:`arrow-right`
+
+   .. card:: Université de Reims 
+      :link: masters/u_reims.html
+      :margin: 3
+
+      ^^^
+
+      .. image:: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.univ-reims.fr%2Fminisite_183%2Fmedia-images%2F23060%2Flogo-urca.png&f=1&nofb=1&ipt=30edc6e8a36dbd216d1e30cea600f41918209bcefed6150baabe93dfd2456f74&ipo=images 
+         :height: 100
+
+      Description for the third card.
+
+      +++
+      Découvrir ce master :fas:`arrow-right`
 
 
    .. card:: Eurecom 
@@ -85,7 +110,7 @@ Liste des masters en France
       Description for the third card.
 
       +++
-      Explore this card :fas:`arrow-right` 
+      Découvrir ce master :fas:`arrow-right` 
 
    .. card:: Central Lille
       :link: masters/central_lille.html
@@ -99,7 +124,7 @@ Liste des masters en France
       Description for the third card.
 
       +++
-      Explore this card :fas:`arrow-right`
+      Découvrir ce master :fas:`arrow-right`
 
    .. card:: ENSEEIHT/INP Toulouse
       :link: masters/en_inp_tls.html
@@ -113,7 +138,7 @@ Liste des masters en France
       Description for the third card.
 
       +++
-      Explore this card :fas:`arrow-right`
+      Découvrir ce master :fas:`arrow-right`
 
    .. card:: INSA Haut de France
       :link: masters/insa_hdf.html
@@ -127,7 +152,7 @@ Liste des masters en France
       Description for the third card.
 
       +++
-      Explore this card :fas:`arrow-right`
+      Découvrir ce master :fas:`arrow-right`
 
 
 

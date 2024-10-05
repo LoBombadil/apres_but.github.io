@@ -1,34 +1,38 @@
-Choisiser votre formations
-===========================
 
+Bienvenue sur notre site
+=============================
 
-.. card-carousel:: 2
+Bienvenue sur le site de la poursuite d'études après un BUT Réseaux et Télécommunications !
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-    .. card:: Masters 
-          :link: masters.html
-          :margin: 3
+Après l'obtention de votre BUT en Réseaux et Télécommunications, de nombreuses opportunités de poursuite d'études s'offrent à vous !  
+Ce site a pour objectif de vous accompagner dans votre réflexion et de vous présenter les différentes options qui s'offrent à vous, que ce soit en France ou à l'international.
 
-          ^^^
+Vous y trouverez des informations détaillées sur :
 
-          .. image:: https://www.univ-tlse3.fr/uas/ups/LOGO/logo_ups_blanc_et_jaune_petit.png
-            :height: 100
+    * Les Masters spécialisés en réseaux, cybersécurité, télécommunications, et plus encore.
+    * Les écoles d'ingénieurs accessibles après un BUT.
+    * Les formations professionnelles et les certifications pour approfondir vos compétences techniques.
+    * Les témoignages d'anciens étudiants ayant choisi diverses voies pour continuer leur parcours.
 
-          The textbook used by UC Berkeley's popular Data 8 class.
+Notre but est de vous fournir toutes les clés pour faire un choix éclairé et préparer au mieux votre avenir professionnel dans le domaine des réseaux et télécommunications.
 
-          +++
-          Explore this book :fas:`arrow-right`
+Bonne navigation !
 
-    .. card::  Ecole d'ingénieur
-          :link: ecole_ding.html
-          :margin: 3
+Choisissez votre formations: 
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. image:: ../../../Images/1200x1385+picto+ingénieur-2611604174.png
+   :target: ecole_ding.html
+   :height: 8em
+   :align: left
 
-          ^^^
+.. image:: ../../../Images/Diplôme-National-de-Master-260x300-1990020184.png
+   :target: master.html
+   :height: 8em
+   :align: center
 
-          .. image:: https://formations.univ-amu.fr/logo-white_amU.svg
-            :height: 100
-
-          A free online book to teach computational economics with open source tools.
-
-          +++
-          Explore this book :fas:`arrow-right`
+.. image:: ../../../Images/fst-LP-diplome-national-de-licence-professionnelle-1744006586.png
+   :target: lp.html
+   :height: 8em
+   :align: right
 

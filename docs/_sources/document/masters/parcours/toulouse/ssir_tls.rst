@@ -6,7 +6,10 @@ Master parcours Sécurité des systèmes d'information et des réseaux (SSIR)
 
     .. tab-item:: Présentation
 
-        reStructuredText 1
+        Les systèmes d'information étant de plus en plus complexes et face à la cybercriminalité, la sécurité des applications et des données devient une préoccupation majeure des entreprises, voire un enjeu stratégique. L'expertise en sécurité informatique est recherchée par les donneurs d'ordre, les entreprises de service numérique (ESN), les prestataires spécialisés en sécurité informatique. Les secteurs d'activité recouvrent largement ceux de l'industrie et du commerce, le secteur bancaire et financier, la santé et les biotechnologies, les nouvelles technologies de l'information et de la communication.
+        La formation est totalement dédiée à la problématique de la sécurité et à la sûreté des systèmes d'information conduisant à un haut niveau d'expertise en sécurité des réseaux, des systèmes et des applications.
+        Le diplômé acquiert les compétences lui permettant de garantir la sécurité applicative avec assurance et autorité tout en facilitant le succès du dialogue métier.
+        La formation vise les débouchés relatifs à la mise en œuvre de politiques et de dispositifs de sécurité en déployant les outils et les processus de prévention, de diagnostic et de remédiation. 
 
     .. tab-item:: Admission
 

@@ -1,5 +1,5 @@
-Les Ecole d'ingénieur
-=========================
+Objetif du diplôme
+======================
 
 Liste des Ecole d'ingenieur
 ------------------------------
